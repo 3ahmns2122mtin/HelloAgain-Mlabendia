@@ -8,11 +8,10 @@ Auf dem Canvas befindet sich mindestens ein Text und ein Image GameObject.
 Die Benennung der Objekte in der Hierarchy, wie auch die Benennung der Elemente in der Project Pane, folgt der PascalCase Notation.
 
 ### Entwicklungsplattform: 
-Windows 10, Unity 2020.3.18f1, Visual Studio Version 2019 Community
+Mac OsBigSur, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
 ### Zielplattform: 
 WebGL Referenzauflösung (960x600) 
-https://3ahmns2122mtin.github.io/HelloAgain-Mlabendia/
 
 ### Visuelle Einblicke in das Projekt: 
 ![sc-ue01helloagain] https://3ahmns2122mtin.github.io/HelloAgain-Mlabendia/
@@ -37,7 +36,7 @@ Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
 - [x] Im Ornder Assets > MyGame  einen Ordner Sprites anlegen, alle im Projekt verwendeten Sprites, die wir hinzufügen, dort ablegen.
 - [x] In das Image GameObject mit Namen Background ein Sprite in die Image Source ziehen 
 - [x] Assets und ProjectSettings Folders auf GitHub laden
-- [x] Readme updaten
+- [ ] Readme updaten
 - [x] WebGL exportieren in HelloAgain-yourKürzel > docs
 - [x] Upload auf GitHub
 - [x] WebGL Pages Einstellen
