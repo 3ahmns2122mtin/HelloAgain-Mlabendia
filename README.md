@@ -1,7 +1,7 @@
 # Übung01 - HelloAgain Aufgabenbeschreibung
 
 ### Projektbeschreibung: 
-Wir haben ein 2D Game erstellt dessen Aufgabe es nur ist unser Background und Text zu zeigen.
+Wir haben ein 2D Game erstellt dessen Aufgabe es nur ist unser Background und Text zu zeigen. Weiters sollte in dieser Aufgabe geübt werden einen WebGL Build zu erstellen und diesen auf GitHub unter Pages zur Verfügung zu stellen. Die Dokumentation wird über das GitHub Readme gemacht. 
 
 ### Entwicklungsplattform: 
 Mac OsBigSur, Unity 2020.3.18f1, Visual Studio Version 2019 Community
@@ -29,7 +29,7 @@ WebGL Referenzauflösung (960x600) https://3ahmns2122mtin.github.io/HelloAgain-M
 - [x] Im Ornder Assets > MyGame  einen Ordner Sprites anlegen, alle im Projekt verwendeten Sprites, die wir hinzufügen, dort ablegen.
 - [x] In das Image GameObject mit Namen Background ein Sprite in die Image Source ziehen 
 - [x] Assets und ProjectSettings Folders auf GitHub laden
-- [ ] Readme updaten
+- [x] Readme updaten
 - [x] WebGL exportieren in HelloAgain-yourKürzel > docs
 - [x] Upload auf GitHub
 - [x] WebGL Pages Einstellen
@@ -58,7 +58,7 @@ WebGL Referenzauflösung (960x600) https://3ahmns2122mtin.github.io/HelloAgain-M
 
 Limitations:
 
-WebGL stuck at 90%
+Eines meiner Probleme war: WebGL stuck at 90%
 
 Lösung: Edit -> Projectsettings -> Player -> Publishing Settings -> Compression Format auf Disabled -> Decompression Fallback Hackerl hinzufügen -> erneut builden
 
