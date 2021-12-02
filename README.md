@@ -61,6 +61,7 @@ WebGL Referenzauflösung (960x600)
 
 
 Limitations:
+
 WebGL stuck at 90%
 
 Lösung: Edit -> Projectsettings -> Player -> Publishing Settings -> Compression Format auf Disabled -> Decompression Fallback Hackerl hinzufügen -> erneut builden
