@@ -7,14 +7,10 @@ Wir haben ein 2D Game erstellt dessen Aufgabe es nur ist unser Background und Te
 Mac OsBigSur, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
 ### Zielplattform: 
-WebGL Referenzauflösung (960x600) 
+WebGL Referenzauflösung (960x600) https://3ahmns2122mtin.github.io/HelloAgain-Mlabendia/
 
 ### Visuelle Einblicke in das Projekt: 
-![sc-ue01helloagain] https://3ahmns2122mtin.github.io/HelloAgain-Mlabendia/
 <img width="1920" alt="Bildschirmfoto 2021-12-02 um 09 27 03" src="https://user-images.githubusercontent.com/90834283/144385197-ff5d0a37-4e31-45fc-9d47-14dc580518de.png">
-
-### Notwendiges für die Ausführung: 
-
 
 ### Anforderungen:  
 - [x] Anlegen eines 2D Unityprojekts mit Namen HelloAgain-yourKürzel
