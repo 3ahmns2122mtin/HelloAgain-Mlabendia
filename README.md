@@ -1,11 +1,7 @@
 # Übung01 - HelloAgain Aufgabenbeschreibung
 
 ### Projektbeschreibung: 
-Dieses Projekt dient der Einarbeitung in Untiy für die selbstständige Erstellung zukünftiger 2D Projekte. 
-Ein einfaches Unity 2D Projekt wird erstellt, als WebGL exportiert und auf GitHub Pages veröffentlicht. 
-Das Projekt enthält eine Szene. Die Szene besteht aus einem screenindependent Canvas (960x600).
-Auf dem Canvas befindet sich mindestens ein Text und ein Image GameObject. 
-Die Benennung der Objekte in der Hierarchy, wie auch die Benennung der Elemente in der Project Pane, folgt der PascalCase Notation.
+Wir haben ein 2D Game erstellt dessen Aufgabe es nur ist unser Background und Text zu zeigen.
 
 ### Entwicklungsplattform: 
 Mac OsBigSur, Unity 2020.3.18f1, Visual Studio Version 2019 Community
@@ -15,9 +11,10 @@ WebGL Referenzauflösung (960x600)
 
 ### Visuelle Einblicke in das Projekt: 
 ![sc-ue01helloagain] https://3ahmns2122mtin.github.io/HelloAgain-Mlabendia/
+<img width="1920" alt="Bildschirmfoto 2021-12-02 um 09 27 03" src="https://user-images.githubusercontent.com/90834283/144385197-ff5d0a37-4e31-45fc-9d47-14dc580518de.png">
 
 ### Notwendiges für die Ausführung: 
-Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
+
 
 ### Anforderungen:  
 - [x] Anlegen eines 2D Unityprojekts mit Namen HelloAgain-yourKürzel
@@ -64,6 +61,8 @@ Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
 
 
 Limitations:
+WebGL stuck at 90%
 
+Lösung: Edit -> Projectsettings -> Player -> Publishing Settings -> Compression Format auf Disabled -> Decompression Fallback Hackerl hinzufügen -> erneut builden
 
 Copyright by Mlabendia
